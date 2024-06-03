@@ -11,7 +11,7 @@ import NextTopLoader from 'nextjs-toploader'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Formsy | Create Powerful Forms Instantly",
+  title: "Forminator | Create Powerful Forms Instantly",
   description: "Design and deploy customized forms in minutes with our intuitive form generator app. Perfect for surveys, registrations, feedback, and more. No coding required",
 };
 
